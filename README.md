@@ -2,7 +2,7 @@
 The whole game with all assets included.
 
 # How to use...
-- Simply click the clone or download button and click clone, this will download the rbxl.file
+- Simply click the clone or download button and choose the option download as zip.
 
 All the rules that berezaa have for the miner's haven open-source also apply here.
 
